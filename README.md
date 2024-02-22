@@ -1,8 +1,8 @@
-- 👋 Hi, I’m boki
+- 👋 Hi, I’m Boki
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning 网络空间安全
-- 💞️ I’m looking to collaborate on 毕业设计
 - 📫 How to reach me BUAA 1836080103@qq.com
+
+我忘记了所有悲剧，所见皆是奇迹。
 
 <!---
 19231224lhr/19231224lhr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
