@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Boki
-- 👀 I’m interested in Blockchain
+- 👋 Hi, I’m Bocchi.
+- 👀 I’m interested in Blockchain and Music.
 - 📫 How to reach me BUAA 1836080103@qq.com
 
-我忘记了所有悲剧，所见皆是奇迹。
+我忘记了一切悲剧，所见皆是奇迹。
 
 <!---
 19231224lhr/19231224lhr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
