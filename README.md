@@ -8,5 +8,7 @@
 19231224lhr/19231224lhr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/19231224lhr/19231224lhr/assets/70199004/7d8bfa00-e2e5-4c3b-a0c6-729735c9f196)
+
+<img width="2048" height="2048" alt="阿米娅" src="https://github.com/user-attachments/assets/0ef09e10-b364-4925-a247-342dcc6cc26f" />
+
 
