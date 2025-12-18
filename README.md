@@ -9,6 +9,6 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<img width="2048" height="2048" alt="阿米娅" src="https://github.com/user-attachments/assets/0ef09e10-b364-4925-a247-342dcc6cc26f" />
+<img src="https://github.com/user-attachments/assets/0ef09e10-b364-4925-a247-342dcc6cc26f" width="50%" alt="阿米娅" />
 
 
